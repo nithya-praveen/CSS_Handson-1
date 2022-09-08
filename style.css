@@ -1,0 +1,29 @@
+ol 
+    {
+        color: brown;
+    }
+.margin 
+    {
+        margin-bottom: 2%;
+        font-family : Times, serif;
+        font-weight: 600;
+        font-size:large;
+    }
+ul
+    {
+        color: brown;
+    }
+.margin1
+    {
+        font-family: serif; 
+        font-weight: 600;
+        font-size: large;
+        letter-spacing: 4px;
+    }
+.margin2
+    {
+        color: brown;
+        font-family: Times, serif;
+        font-weight: 600;
+        font-size: large;
+    }
